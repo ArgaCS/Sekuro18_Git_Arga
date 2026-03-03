@@ -1,0 +1,16 @@
+ 1039  git push origin v2
+ 1040  uname -sr && whoami
+ 1041  clear
+ 1042  which g++ > compiler_trace.log && g++ --version | head -n 1 >> compiler_trace.log
+ 1043  which g++ > compiler_trace.log && g++ --version | head -n 1 >> compiler_trace.log
+ 1044  clear
+ 1045  clear
+ 1046  which g++ > compiler_trace.log && g++ --version | head -n 1 >> compiler_trace.log
+ 1047  cat compiler_trace.log
+ 1048  mkdir ~/recovery_ops\ncd ~/recovery_ops
+ 1049  curl -O https://raw.githubusercontent.com/aryadiiptaa/YESS/refs/heads/main/system_raw.txt
+ 1050  head -n 1260 system_raw.txt | tail -n 11 > recovered_sector.txt
+ 1051  rm system_raw.txt
+ 1052  code .
+ 1053  code .
+ 1054  code .
