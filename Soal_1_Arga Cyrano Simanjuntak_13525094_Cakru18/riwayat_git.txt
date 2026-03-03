@@ -1,0 +1,6 @@
+*   f5d8cfb Penyelesaian merge conflict
+|\  
+| * 827457d versi 1
+* | 90efea5 versi 2
+|/  
+* 5f28f3b inisiasi github
